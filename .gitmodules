@@ -5,3 +5,9 @@
 [submodule "ipeaplot"]
 	path = ipeaplot
 	url = https://github.com/ipeadata-lab/ipeaplot
+[submodule "metaphonebr"]
+	path = metaphonebr
+	url = https://github.com/ipeadata-lab/metaphonebr
+[submodule "nomesbr"]
+	path = nomesbr
+	url = https://github.com/ipeadata-lab/nomesbr
